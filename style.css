@@ -1,0 +1,46 @@
+.my-card img{ 
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    background-color: rgba(219, 219, 219, 0.247);
+    border-radius: 10px;
+}
+.my-card{
+  background-color: white;
+    border: 0;
+    border-radius: 10px;
+    height: 530px;
+   
+   
+}
+.paragraph{
+    color: black;
+    font-weight: 100;
+    font-size: 14px;
+    line-height: 0.1;
+   
+}
+
+.foot-clr{
+    background-color: white;
+    height: 110px;
+    width: 450px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.foot-clr img{
+    height: 75px;
+}
+
+.my-section{
+    height: 800px;
+}
+@media(max-width:100px){
+    .my-section{
+        display : flex;
+        flex-direction: row-reverse;
+        
+       
+    }
+}
+
