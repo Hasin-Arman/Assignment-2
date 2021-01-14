@@ -35,12 +35,5 @@
 .my-section{
     height: 800px;
 }
-@media(max-width:100px){
-    .my-section{
-        display : flex;
-        flex-direction: row-reverse;
-        
-       
-    }
-}
+
 
